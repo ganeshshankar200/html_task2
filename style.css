@@ -1,0 +1,62 @@
+.main{
+    border: 5px solid black;
+    height: 600px;
+    width: 600px;
+    display: grid;
+    
+    margin: 10px;
+    margin-left: 250px;
+
+}
+.heading{
+    display: grid;
+    justify-content: center;
+    height: 50px;
+    margin: 0;
+}
+.hed{
+    display: grid;
+    height: 100px;
+    background-color:white;
+}
+.body{
+    height: 400px;
+    background-color: white;
+    display: grid;
+    grid-template-columns:200px 300px ;
+    padding: 10px;
+    
+    
+}
+
+
+.form{
+    margin: 10px;
+    padding: 10px;
+    display: grid;
+    justify-content: left;
+}
+.imag{
+    margin: 20px;
+    height: 150px;
+    width: 100px;
+    border: 2px solid black;
+}
+.selection{
+width: 200px;
+height:30px ;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.para{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+}
+fieldset{
+    height: 410px;s ;
+    width: 400px;
+    margin-left: 25px;
+}
